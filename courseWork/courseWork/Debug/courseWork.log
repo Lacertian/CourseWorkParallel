@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  courseWork.cpp
+c:\users\vasia\source\repos\coursework\coursework\coursework.cpp(165): warning C4018: <: несоответствие типов со знаком и без знака
+  courseWork.vcxproj -> c:\users\vasia\source\repos\courseWork\Debug\courseWork.exe
